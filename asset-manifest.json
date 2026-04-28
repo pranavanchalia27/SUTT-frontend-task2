@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SUTT-frontend-task2/static/css/main.e6c13ad2.css",
+    "main.js": "/SUTT-frontend-task2/static/js/main.4afbc5c2.js",
+    "static/js/453.5723cca9.chunk.js": "/SUTT-frontend-task2/static/js/453.5723cca9.chunk.js",
+    "index.html": "/SUTT-frontend-task2/index.html",
+    "main.e6c13ad2.css.map": "/SUTT-frontend-task2/static/css/main.e6c13ad2.css.map",
+    "main.4afbc5c2.js.map": "/SUTT-frontend-task2/static/js/main.4afbc5c2.js.map",
+    "453.5723cca9.chunk.js.map": "/SUTT-frontend-task2/static/js/453.5723cca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4afbc5c2.js"
+  ]
+}
