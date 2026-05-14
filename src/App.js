@@ -27,7 +27,7 @@ function App() {
 
     const titleRegex = /^[a-zA-Z0-9 ]{3,}$/;
     const categoryRegex = /^[A-Za-z ]+$/;
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const emailRegex = /^[fF]\d{8}@pilani\.bits-pilani\.ac\.in$/;
 
     if (!titleRegex.test(form.title)) {
       newErrors.title = "Title must be at least 3 characters";
